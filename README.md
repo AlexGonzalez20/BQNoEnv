@@ -1,2 +1,1 @@
-# BQNoEnv
 Proyecto Bytequest
